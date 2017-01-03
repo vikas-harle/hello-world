@@ -1,5 +1,5 @@
  class upperToLowerCase
-{
+{     
 public static void main(String gg[])
 {
 if(gg.length>1)
