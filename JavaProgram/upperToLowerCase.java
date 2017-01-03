@@ -3,7 +3,7 @@
 public static void main(String gg[])
 {
 if(gg.length>1)
-System.out.println("Enter only one String");
+System.out.println("Enter only one String gggggggggggggggggggg");
 else
 {
 System.out.println(upperToLowerCase.upperToLower(gg[0]));
